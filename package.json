@@ -1,0 +1,30 @@
+{
+  "name": "@letea/canvas",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamletea/canvas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamletea/canvas/issues"
+  },
+  "homepage": "https://github.com/iamletea/canvas#readme",
+  "prettier": {
+    "arrowParens": "avoid",
+    "semi": true,
+    "singleQuote": false,
+    "tabWidth": 2,
+    "trailingComma": "none"
+  },
+  "devDependencies": {
+    "eslint": "^7.14.0"
+  }
+}
